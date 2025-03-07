@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piotr Kula and I am Technical Lead at https://github.com/EcoOnline
 - 👀 I am primarily a Dotnet developer but do write code in all languages
 - 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangelist
-- 🌱 Learning about Kafka
+- 🌱 Learning about Vectors and Semantic Searching in ElasticSearch
 
 ### Daily 
 
