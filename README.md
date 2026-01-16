@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Piotr Kula and I am Technical Lead at https://github.com/EcoOnline
-- 👀 I am primarily a Dotnet developer but do write code in all languages
+- 👀 I am Professional Dotnet developer but do write code in many languages
 - 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangelist
-- 🌱 Learning about Vectors and Semantic Searching in ElasticSearch
+- 🌱 Learning about Kubernetes > ArgoCD, Argo Workflows and Argo Releases
 
 ### Daily 
 
 ![Windows](https://img.shields.io/badge/Windows%20-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Mac M4](https://img.shields.io/badge/MAC%20M4%20-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white)
