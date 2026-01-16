@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piotr Kula and I am Technical Lead at https://github.com/EcoOnline
+- 👋 Hi, I’m Piotr Kula and I am Technical Lead at EcoOnline UK
 - 👀 I am Professional Dotnet developer but do write code in many languages
 - 🔍 I'm a certified Elastic Search Observability Engineer and a Open Telemetry evangelist
 - 🌱 Learning about Kubernetes > ArgoCD, Argo Workflows and Argo Releases
